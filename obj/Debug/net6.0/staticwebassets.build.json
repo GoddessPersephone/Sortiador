@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "t/88Mnz8YIQ7DWYZNXGrsa605Hv2n1d6UdgjnHgEjW4=",
+  "Source": "GeradorNumeroAleatorio",
+  "BasePath": "_content/GeradorNumeroAleatorio",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GeradorNumeroAleatorio\\wwwroot",
+      "Source": "GeradorNumeroAleatorio",
+      "ContentRoot": "C:\\Users\\larac\\Documents\\Curriculo\\Portifolio\\Expor\\GeradorNumeroAleatorio\\Sortiador\\wwwroot\\",
+      "BasePath": "_content/GeradorNumeroAleatorio",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\larac\\Documents\\Curriculo\\Portifolio\\Expor\\GeradorNumeroAleatorio\\Sortiador\\wwwroot\\index.html",
+      "SourceId": "GeradorNumeroAleatorio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\larac\\Documents\\Curriculo\\Portifolio\\Expor\\GeradorNumeroAleatorio\\Sortiador\\wwwroot\\",
+      "BasePath": "_content/GeradorNumeroAleatorio",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\larac\\Documents\\Curriculo\\Portifolio\\Expor\\GeradorNumeroAleatorio\\Sortiador\\wwwroot\\script.js",
+      "SourceId": "GeradorNumeroAleatorio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\larac\\Documents\\Curriculo\\Portifolio\\Expor\\GeradorNumeroAleatorio\\Sortiador\\wwwroot\\",
+      "BasePath": "_content/GeradorNumeroAleatorio",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    }
+  ]
+}
